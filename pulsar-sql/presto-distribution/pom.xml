@@ -34,7 +34,7 @@
     <version>2.8.0-SNAPSHOT</version>
 
     <properties>
-        <jersey.version>2.31</jersey.version>
+        <jersey.version>2.34</jersey.version>
         <presto.version>332</presto.version>
         <airlift.version>0.170</airlift.version>
         <objenesis.version>2.6</objenesis.version>
