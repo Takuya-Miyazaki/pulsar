@@ -183,7 +183,7 @@ flexible messaging model and an intuitive client API.</description>
     <commons-compress.version>1.28.0</commons-compress.version>
 
     <bookkeeper.version>4.17.3</bookkeeper.version>
-    <zookeeper.version>3.9.4</zookeeper.version>
+    <zookeeper.version>3.9.5</zookeeper.version>
     <commons-cli.version>1.11.0</commons-cli.version>
     <commons-text.version>1.14.0</commons-text.version>
     <snappy.version>1.1.10.8</snappy.version> <!-- ZooKeeper server -->
@@ -204,8 +204,8 @@ flexible messaging model and an intuitive client API.</description>
     <commons.collections4.version>4.5.0</commons.collections4.version>
     <log4j2.version>2.25.3</log4j2.version>
     <!-- bouncycastle dependencies aren't necessarily aligned -->
-    <bouncycastle.bcprov-jdk18on.version>1.78.1</bouncycastle.bcprov-jdk18on.version>
-    <bouncycastle.bcpkix-jdk18on.version>1.81</bouncycastle.bcpkix-jdk18on.version>
+    <bouncycastle.bcprov-jdk18on.version>1.84</bouncycastle.bcprov-jdk18on.version>
+    <bouncycastle.bcpkix-jdk18on.version>1.84</bouncycastle.bcpkix-jdk18on.version>
     <bouncycastle.bcutil-jdk18on.version>1.81</bouncycastle.bcutil-jdk18on.version>
     <bouncycastle.bcprov-ext-jdk18on.version>1.78.1</bouncycastle.bcprov-ext-jdk18on.version>
     <bouncycastle.bcpkix-fips.version>2.0.10</bouncycastle.bcpkix-fips.version>
@@ -263,8 +263,8 @@ flexible messaging model and an intuitive client API.</description>
     <jcip.version>1.0</jcip.version>
     <prometheus-jmx.version>0.16.1</prometheus-jmx.version>
     <confluent.version>7.9.2</confluent.version>
-    <aircompressor.version>0.27</aircompressor.version>
-    <asynchttpclient.version>2.12.4</asynchttpclient.version>
+    <aircompressor.version>2.0.3</aircompressor.version>
+    <asynchttpclient.version>2.14.5</asynchttpclient.version>
     <commons-lang3.version>3.19.0</commons-lang3.version>
     <commons-io.version>2.21.0</commons-io.version>
     <commons-codec.version>1.20.0</commons-codec.version>
